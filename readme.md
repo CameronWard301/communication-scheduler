@@ -24,11 +24,11 @@
     ![workerComponent](Designs/Images/System%20Context/Components/WorkerComponent.png)
 
 ### Class Diagrams (C4):
-5. [Worker Component](Designs/System%20Context/Components/CommunicationWorkflowClassDiagram.puml)  
-    ![Worker Component](Designs/Images/System%20Context/Components/WorkflowClassDiagram.png)
+5. [Worker Component Class Diagram](Designs/System%20Context/Components/CommunicationWorkflowClassDiagram.puml)  
+    ![Worker Component Class Diagram](Designs/Images/System%20Context/Components/WorkflowClassDiagram.png)
 
 ### Activity Diagrams:
-6. [Send Communication Workflow](Designs/Activity%20Diagrams/SendMessageToGatewayWorkflow.puml)  
+6. [Send Communication Workflow](Designs/Activity%20Diagrams/SendCommunicationWorkflow.puml.puml)  
     ![Send Communication Workflow](Designs/Images/Activity%20Diagrams/SendCommunicationWorkflow.png)
 
 7. [GetGatewayActivity](Designs/Activity%20Diagrams/GetGatewayActivity.puml)  
@@ -38,7 +38,7 @@
     ![SendMessageToGatewayActivity](Designs/Images/Activity%20Diagrams/Send%20Message%20To%20Gateway%20Activity.png)
 
 ### Sequence Diagrams:
-9. [Create New Workflow:](Designs/Sequence%20Diagrams/CreateNewWorkflow.puml)
+9. [Create New Workflow:](Designs/Sequence%20Diagrams/CreateNewWorkflow.puml)  
 This describes a business user using the web portal to manually create a new communication schedule between a gateway and a user.  
     ![Create New Workflow](Designs/Images/Sequence%20Diagrams/Create%20New%20Workflow.png)
 
