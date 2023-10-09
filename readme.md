@@ -28,7 +28,7 @@
     ![Worker Component Class Diagram](Designs/Images/System%20Context/Components/WorkflowClassDiagram.png)
 
 ### Activity Diagrams:
-6. [Send Communication Workflow](Designs/Activity%20Diagrams/SendCommunicationWorkflow.puml.puml)  
+6. [Send Communication Workflow](Designs/Activity%20Diagrams/SendCommunicationWorkflow.puml)  
     ![Send Communication Workflow](Designs/Images/Activity%20Diagrams/SendCommunicationWorkflow.png)
 
 7. [GetGatewayActivity](Designs/Activity%20Diagrams/GetGatewayActivity.puml)  
